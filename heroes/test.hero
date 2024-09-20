@@ -1,1 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?><Hero xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Name>Bastion</Name><IconPath>\Heroes\test.png</IconPath></Hero>
+﻿<?xml version="1.0" encoding="utf-8"?><Hero xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Name>Zenyatta</Name><IconPath>\Heroes\TestHero.png</IconPath></Hero>
