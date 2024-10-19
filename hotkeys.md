@@ -19,5 +19,5 @@
 ### Window Controls
 | Action              | Description                                      | Default Hotkey         | Local?  |
 |---------------------|--------------------------------------------------|----------------|---------|
-| **Hotkey Manager**   | Opens the Hotkey Manager window.                 | Control+H      | No      |
-| **Change Orientation** | Changes the window orientation (e.g., landscape to portrait). | Control+O      | No      |
+| **Hotkey Manager**   | Opens the Hotkey Manager window.                 | Control+H      | Yes      |
+| **Change Orientation** | Changes the window orientation (e.g., landscape to portrait). | Control+O      | Yes      |
