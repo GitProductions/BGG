@@ -13,7 +13,7 @@
 |------------------|------------------------------------------------|----------------|---------|------------|--------------------------------------------------------|
 | **Swap Teams**   | Swaps teams within the current context.        |                | No      | GET        | `/api/swapTeams`                                       |
 | **Reset Teams**  | Resets teams to their default state.           |                | No      | GET        | `/api/resetTeams`                                      |
-| **Update**       | Updates the team setup with the latest data.   |                | No      | GET        | `/api/checkForUpdates`                                 |
+| **Update**       | Updates the server with the latest data.       |                | No      | GET        | `/api/checkForUpdates`                                 |
 | **Increment T1** | Increments the score or action for Team 1.     |                | No      | GET        | `/api/increment?team=1`                                |
 | **Decrement T1** | Decrements the score or action for Team 1.     |                | No      | GET        | `/api/decrement?team=1`                                |
 | **Increment T2** | Increments the score or action for Team 2.     |                | No      | GET        | `/api/increment?team=2`                                |
