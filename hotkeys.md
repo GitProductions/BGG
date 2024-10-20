@@ -31,3 +31,13 @@
 | **About**     | Opens the "About" window with information about the app. |                | No      | GET        | `/api/about`                                          |
 | **Get Version** | Retrieves the current application version.     |                | No      | GET        | `/api/getAppVersion`                                  |
 | **Get Hotkeys** | Fetches the list of all registered hotkeys.    |                | No      | GET        | `/api/getHotkeys`                                     |
+
+---
+
+## API-Only Endpoints
+
+### Team Management
+| Action           | Description                                    | HTTP Type  | HTTP Request Path                                       |
+|------------------|------------------------------------------------|------------|--------------------------------------------------------|
+| **Set Team Score**| Sets the score for a specific team.            | POST       | `/api/setTeamScore?team=1&score=10`                    |
+| **Set Team Logo** | Updates the logo for a specific team. (Coming Soon) | POST   | `/api/setTeamLogo?team=1&logoURL=https://example.com/logo.png`  |
